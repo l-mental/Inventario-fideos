@@ -1,0 +1,6 @@
+{
+  "name": "SoftPlus Fideos - Inventarios y Ventas",
+  "description": "Sistema de gestión de inventarios para fábrica de fideos, control en kilos y bolsas, lista de precios regionales (Chulumani, Irupana, Guanay, Palos Blancos, Asunta) y terminal POS con control de encargados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
